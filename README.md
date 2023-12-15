@@ -34,7 +34,7 @@
 ## 💻 Tech Stack:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,rust,cpp,bash,python,git,mysql,neovim"/>
+    <img src="https://skillicons.dev/icons?i=c,python,rust,cpp,bash,mysql,git,neovim"/>
 </p>
 
 ## 🔥 GitHub stats:
