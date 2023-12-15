@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/79782433/195537454-75cb0d98-630c-442f-87aa-196e69b59bb2.svg">
+  <img src="https://github.com/teflon40/teflon40/assets/125450033/caa08134-b483-4bbc-b271-2c3c0991ae34.svg">
 </p>
 
 <p align="center">
