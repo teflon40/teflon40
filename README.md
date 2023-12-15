@@ -34,7 +34,7 @@
 ## 💻 Tech Stack:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c"/>
+    <img src="https://skillicons.dev/icons?i=c,rust"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' height="60" width="60"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" width="60"/>
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg' height="60" width="60"/>
