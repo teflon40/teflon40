@@ -11,11 +11,13 @@
           
 </p>
 
+<!--
 ---
 
 <h3 quote align='center'>It is the constant fault and inseparable evil quality of ambition, that it never looks behind it.</h3 quote>
 
 ---
+!-->
 
 ## 🌐 Socials:
 
