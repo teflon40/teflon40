@@ -10,11 +10,11 @@
 <ul>
   <li>I am currently a student of <a href="https://www.alxafrica.com/">ALX</a> learning software engineering and systems programming</li>
   <li>I can't hide my love for low-level systems.<br>
-    Currently expanding my knowledge on operating systems design and implementation, kernel development, computer architecture, computer networks and distrubuted systems.  
+    Currently expanding my knowledge on <em>operating systems design and implementation</em>, <em>kernel development</em>, <em>computer architecture</em>, <em>computer networks</em> and <em>distrubuted systems</em>.  
   </li>
-  <li>Most of my learning is peer-based so I am looking forward to collaborate with people with same interests as mine including you, Yes the honorable person reading this.</li>
+  <li>Most of my learning is peer-based so I am looking forward to collaborate with people with same interests as mine including you, yes you, the honorable person reading this.</li>
   <li>I make automations for fun🙂.</li>
-  <li>I love reading too and I am currently reading <a href="https://www.amazon.com/Design-UNIX-Operating-System/dp/0132017997">The Design of the UNIX Operating System</a> by M.J. Bach</li>
+  <li>I love reading too and I am currently reading <a href="https://www.amazon.com/Design-UNIX-Operating-System/dp/0132017997">The Design of the UNIX Operating System</a> by Maurice J. Bach.</li>
 </ul>
 
 ## 🌐 Connect With Me:
