@@ -1,11 +1,6 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&size=40&pause=500&color=f75c7e&vCenter=true&width=600&height=70&lines=I+am+Bernard+Frimpong)](https://git.io/typing-svg)
-<!--
-<p align="center">
-  <a href="https://github.com/teflon40/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">      
-</p>
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&size=35&pause=500&color=f75c7e&vCenter=true&width=700&height=70&lines=I+am+Bernard+Frimpong;and+I'm+always+learning+new+things.)](https://git.io/typing-svg)
+
 <h3>This is Me:</h3>
 <ul>
   <li>I am currently a student of <a href="https://www.alxafrica.com/">ALX</a> learning software engineering and systems programming</li>
