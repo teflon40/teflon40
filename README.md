@@ -10,7 +10,7 @@
 <ul>
   <li>I am currently a student of <a href="https://www.alxafrica.com/">ALX</a> learning software engineering and systems programming</li>
   <li>I can't hide my love for low-level systems.<br>
-    Currently expanding my knowledge on operating systems, kernel development, computer architecture, computer networks and distrubuted systems.  
+    Currently expanding my knowledge on operating systems design and implementation, kernel development, computer architecture, computer networks and distrubuted systems.  
   </li>
   <li>Most of my learning is peer-based so I am looking forward to collaborate with people with same interests as mine including you, Yes the honorable person reading this.</li>
   <li>I make automations for fun🙂.</li>
