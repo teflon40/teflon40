@@ -1,23 +1,21 @@
-<!--
-<p align="center">
-  <img src="https://github.com/teflon40/teflon40/assets/125450033/caa08134-b483-4bbc-b271-2c3c0991ae34.svg">
-</p>
-!-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&size=65&pause=500&color=f75c7e&vCenter=true&width=600&height=70&lines=Bernard+Frimpong;teflon40)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&size=65&pause=500&color=f75c7e&vCenter=true&width=600&height=70&lines=Bernard+Frimpong;teflon40)](https://git.io/typing-svg)
+<!--
 <p align="center">
   <a href="https://github.com/teflon40/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">      
 </p>
-
-<!--
----
-
-<h3 quote align='center'>It is the constant fault and inseparable evil quality of ambition, that it never looks behind it.</h3 quote>
-
----
-!-->
+-->
+<h3>This is Me:</h3>
+<ul>
+  <li>I am currently a student of <a href="https://www.alxafrica.com/">ALX</a> learning software engineering and systems programming</li>
+  <li>I can't hide my love for low-level systems.<br>
+    Currently expanding my knowledge on operating systems, kernel development, computer architecture, computer networks and distrubuted systems.  
+  </li>
+  <li>Most of my learning is peer-based so I am looking forward to collaborate with people with same interests as mine including you, Yes the honorable person reading this.</li>
+  <li>I make automations for fun🙂.</li>
+  <li>I love reading too and I am currently reading <a href="https://www.amazon.com/Design-UNIX-Operating-System/dp/0132017997">The Design of the UNIX Operating System</a> by M.J. Bach</li>
+</ul>
 
 ## 🌐 Connect With Me:
 
@@ -36,7 +34,7 @@
 ## 💻 Tech Stack:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,rust,cpp,bash,mysql,git,neovim"/>
+    <img src="https://skillicons.dev/icons?i=c,python,rust,cpp,linux,bash,mysql,git,neovim"/>
 </p>
 
 ## 🔥 GitHub stats:
@@ -51,7 +49,6 @@
 <p align="center">
   <a href="https://github.com/teflon40"><img alt="Bernard's Github Stats" src="https://github-readme-stats.vercel.app/api?username=teflon40&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&rank_icon=github&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/teflon40"><img alt="Bernard's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teflon40&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=HTML,Jupyter%20Notebook" height="192px"/></a>
-
 </p>
 
 
