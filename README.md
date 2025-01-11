@@ -1,8 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&size=16&pause=500&color=f75c7e&vCenter=true&width=700&height=70&lines=Fun+Fact:+I+suck+at+repo+naming)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira&size=16&duration=6000&pause=1000&color=f75c7e&vCenter=true&center=true&width=700&height=70&lines=Fun+Fact:+I+suck+at+repo+naming)](https://git.io/typing-svg)
 
 <p>Hello there, I am Bernard Frimpong, a pythonista and a c-man.<br>
-  I am a backend developer by profession and a low-level hobbyist.<br>
+  I am a backend developer by profession and a low-level hobbyist.<br><br>
   Currently working at <a href="https://clicksoftwaregh.com/">ClickSoftwareGh</a>, an IT firm which provides a high level multi-technology solutions to clients. 
 </p>
 
@@ -19,12 +19,12 @@
 ## 💻 Tech Stack:
   #### Languages
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,python,bash,php,postgresql"/>
+    <img src="https://skillicons.dev/icons?i=c,python,bash,postgresql"/>
 </p>
 
 #### Frameworks
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=django,flask,laravel"/>
+    <img src="https://skillicons.dev/icons?i=django,flask"/>
 </p>
 
 ## 🔥 GitHub stats:
