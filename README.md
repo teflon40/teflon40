@@ -17,14 +17,9 @@
   
   
 ## 💻 Tech Stack:
-  #### Languages
+  #### Languages & Tools
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,python,bash,postgresql"/>
-</p>
-
-#### Frameworks
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=django,flask"/>
+    <img src="https://skillicons.dev/icons?i=c,python,rust,bash,postgresql,django,flask"/>
 </p>
 
 ## 🔥 GitHub stats:
